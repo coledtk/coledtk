@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY0NmFic2V6cmdxZWM0dnpoOTQwbmlnanZ0bzY0YmZlbGhrdzkxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -14,13 +14,5 @@
 - Automating all of the things.
 - BS: CS
 - [CCNA, Net+, Sec+, LPI:Essentials, AZ-900, ITIL v4]
-
----
-
-### 📊 GitHub Stats (yeah I know...)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coledtk&show_icons=true&theme=tokyonight" alt="Cole's GitHub Stats"/>
-</p>
 
 ---
