@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Cole</h1>
+<p align="center">
+  <em>NOC Analyst @ SiriusXM 🚀</em>
+</p>
 
-<!--
-**coledtk/coledtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 About Me
+
+- Automating all of the things.
+- BS: CS
+- [CCNA, Net+, Sec+, LPI:Essentials, AZ-900, ITIL v4]
+
+---
+
+### 📊 GitHub Stats (yeah I know...)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coledtk&show_icons=true&theme=tokyonight" alt="Cole's GitHub Stats"/>
+</p>
+
+---
