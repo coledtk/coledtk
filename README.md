@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Cole</h1>
 <p align="center">
-  <em>NOC Analyst @ SiriusXM 🚀</em>
+  <em>NOC Analyst @ SiriusXM </em>
 </p>
 
 <p align="center">
