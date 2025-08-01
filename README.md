@@ -13,6 +13,6 @@
 
 - Automating all of the things.
 - BS: CS
-- [CCNA, Net+, Sec+, LPI:Essentials, AZ-900, ITIL v4]
+- [Net+, Sec+, LPI:Essentials, AZ-900, ITIL v4]
 
 ---
