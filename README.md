@@ -14,5 +14,6 @@
 - Automating all of the things.
 - BS: CS
 - [Net+, Sec+, LPI:Essentials, AZ-900, ITIL v4]
+- Currently working on projects and AWS SAA.
 
 ---
