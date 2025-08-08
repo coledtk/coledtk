@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Cole</h1>
+<h1 align="center">Hello, I'm Cole</h1>
 <p align="center">
   <em>NOC Analyst @ SiriusXM </em>
 </p>
