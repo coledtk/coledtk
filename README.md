@@ -11,7 +11,7 @@
 
 ### About Me
 
-- Automation, Data & Engineering.
+- Automation, observability & resilience.
 - BS: CS
 - [Net+, Sec+, LPI:Essentials, AZ-900, ITIL v4]
 
